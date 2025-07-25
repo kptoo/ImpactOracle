@@ -1,6 +1,5 @@
 # 🎪 ImpactOracle - WCHL 2025 Demo Script
 
-> **3-minute winning presentation that will blow the judges away**
 
 ## 🎯 Pre-Demo Setup (30 seconds before)
 
